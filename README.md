@@ -36,10 +36,6 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=ThucTrieu&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak" />
-</div>
-
-<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ThucTrieu&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2" alt="GitHub Trophies" />
 </div>
 
