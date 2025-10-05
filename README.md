@@ -24,28 +24,117 @@
 
 ### 👨‍💻 About Me
 
-```typescript
-const thucTrieu = {
-  location: "Ho Chi Minh City, Vietnam 🇻🇳",
-  education: "Software Engineering @ HCMUS, VNU",
-  currentFocus: [
-    "Cross-Platform Development",
-    "Full-Stack Engineering",
-    "Mobile Apps",
-  ],
-  workingOn: "Building innovative solutions with Flutter & React",
+<div align="center">
 
-  techStack: {
-    mobile: ["Flutter", "Dart", "Swift"],
-    web: ["React", "TypeScript", "JavaScript"],
-    languages: ["TypeScript", "Dart", "C/C++", "Swift", "JavaScript"],
-    interests: ["Clean Architecture", "UI/UX", "Performance Optimization"],
-  },
+<table>
+<tr>
+<td width="50%" valign="top">
 
-  hobbies: ["⚽ Soccer", "📸 Photography", "🎮 Gaming", "💻 Tech Exploration"],
-  funFact: "I turn coffee into code ☕ → 💻",
-};
+#### 👔 Professional Journey
+
+```mermaid
+graph LR
+    A[Software Engineer] --> B[Mobile Team Lead]
+    B --> C[AI Automation Expert]
+    C --> D[Digital Transformation]
 ```
+
+<br/>
+
+| 🎯 Current Role | Details |
+|:---|:---|
+| **Position** | 🚀 Mobile Team Lead |
+| **Location** | 🇻🇳 Ho Chi Minh City, Vietnam |
+| **Education** | 🎓 Software Engineering @ HCMUS, VNU |
+| **Specialty** | 📱 React Native Mobile Development |
+
+</td>
+<td width="50%" valign="top">
+
+#### 💼 Core Expertise
+
+<div align="left">
+
+🏆 **Leadership & Development**
+- Leading mobile development teams
+- Architecting scalable React Native apps
+- Mentoring developers & code reviews
+
+🤖 **AI & Automation**
+- Building intelligent workflow automation (n8n)
+- Reducing manual labor with AI solutions
+- Digital transformation implementations
+
+🛠️ **Tech Stack**
+- Mobile: React Native, Flutter, TypeScript
+- AI/Automation: n8n, AI Integration
+- Backend: Node.js, RESTful APIs
+- Cloud: Firebase, AWS
+
+</div>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🎯 What Drives Me
+
+</div>
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 🤖 AI Innovation
+Passionate about leveraging AI to **automate workflows** and **reduce human labor**. Building intelligent systems that work smarter, not harder.
+
+</td>
+<td width="33%" align="center">
+
+### 📱 Mobile Excellence
+Leading teams to create **exceptional mobile experiences** with React Native. From concept to deployment, delivering apps that users love.
+
+</td>
+<td width="33%" align="center">
+
+### 🚀 Digital Transformation
+Developing **enterprise solutions** that modernize businesses. Turning traditional processes into efficient digital workflows.
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### 💡 Current Focus
+
+| 🔨 Building | 🎓 Learning | 🎯 Goals |
+|:---|:---|:---|
+| 🤖 AI-powered automation platforms | ☁️ Advanced cloud architecture | 🌍 Scale AI solutions globally |
+| 📱 Enterprise React Native apps | 🧠 Machine learning integration | 👥 Grow engineering teams |
+| 🔄 Digital transformation tools | 🚀 DevOps & CI/CD optimization | 📚 Share knowledge through writing |
+
+</div>
+
+---
+
+<div align="center">
+
+### 🎨 Beyond Code
+
+**⚽ Soccer Enthusiast** • **📸 Photography Lover** • **🎮 Gamer** • **💻 Tech Explorer**
+
+*When I'm not leading teams or building AI solutions, you'll find me on the soccer field, capturing moments through my lens, or exploring the latest tech trends.*
+
+</div>
 
 ---
 
