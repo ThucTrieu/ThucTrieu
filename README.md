@@ -36,7 +36,7 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?username=ThucTrieu&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=ThucTrieu&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </div>
 
 <div align="center">
@@ -64,6 +64,7 @@ graph LR
     A[Software Engineer] --> B[Mobile Team Lead]
     B --> C[AI Automation Expert]
     C --> D[Digital Transformation]
+    D --> E[Master's Degree]
 ```
 
 <br/>
