@@ -22,6 +22,33 @@
 
 ---
 
+### 📊 GitHub Statistics & 🏆 Achievements
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Contributions_Last_Year-4,137-blueviolet?style=for-the-badge&logo=github&logoColor=white" alt="yearly contributions" />
+
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThucTrieu&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThucTrieu&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?username=ThucTrieu&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ThucTrieu&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2" alt="GitHub Trophies" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThucTrieu&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+</div>
+
+---
+
 ### 👨‍💻 About Me
 
 <div align="center">
@@ -170,31 +197,6 @@ _When I'm not leading teams or building AI solutions, you'll find me on the socc
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-</div>
-
----
-
-### 📊 GitHub Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThucTrieu&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThucTrieu&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=ThucTrieu&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThucTrieu&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
-
----
-
-### 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ThucTrieu&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
 
 ---
