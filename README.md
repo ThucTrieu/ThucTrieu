@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Thuc+Trieu+%F0%9F%91%8B;Software+Engineer+%7C+Full-Stack+Developer;Mobile+%26+Web+Enthusiast+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Thuc+Trieu+%F0%9F%91%8B;Software+Engineer+%7C+Full-Stack+Developer;Mobile+%26+AI+Applications+Enthusiast+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <div align="center">
   <img src="Thuc.png" width="200" style="border-radius: 50%; border: 3px solid #A855F7;"/>
 </div>
 
-<h2 align="center">🚀 Software Engineer | Flutter & Full-Stack Developer</h2>
+<h2 align="center">🚀 Software Engineer | Team Leader</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/thuctmn/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -41,12 +41,12 @@ graph LR
 
 <br/>
 
-| 🎯 Current Role | Details |
-|:---|:---|
-| **Position** | 🚀 Mobile Team Lead |
-| **Location** | 🇻🇳 Ho Chi Minh City, Vietnam |
-| **Education** | 🎓 Software Engineering @ HCMUS, VNU |
-| **Specialty** | 📱 React Native Mobile Development |
+| 🎯 Current Role | Details                              |
+| :-------------- | :----------------------------------- |
+| **Position**    | 🚀 Mobile Team Lead                  |
+| **Location**    | 🇻🇳 Ho Chi Minh City, Vietnam         |
+| **Education**   | 🎓 Software Engineering @ HCMUS, VNU |
+| **Specialty**   | 📱 React Native Mobile Development   |
 
 </td>
 <td width="50%" valign="top">
@@ -56,16 +56,19 @@ graph LR
 <div align="left">
 
 🏆 **Leadership & Development**
+
 - Leading mobile development teams
 - Architecting scalable React Native apps
 - Mentoring developers & code reviews
 
 🤖 **AI & Automation**
+
 - Building intelligent workflow automation (n8n)
 - Reducing manual labor with AI solutions
 - Digital transformation implementations
 
 🛠️ **Tech Stack**
+
 - Mobile: React Native, Flutter, TypeScript
 - AI/Automation: n8n, AI Integration
 - Backend: Node.js, RESTful APIs
@@ -92,18 +95,21 @@ graph LR
 <td width="33%" align="center">
 
 ### 🤖 AI Innovation
+
 Passionate about leveraging AI to **automate workflows** and **reduce human labor**. Building intelligent systems that work smarter, not harder.
 
 </td>
 <td width="33%" align="center">
 
 ### 📱 Mobile Excellence
+
 Leading teams to create **exceptional mobile experiences** with React Native. From concept to deployment, delivering apps that users love.
 
 </td>
 <td width="33%" align="center">
 
 ### 🚀 Digital Transformation
+
 Developing **enterprise solutions** that modernize businesses. Turning traditional processes into efficient digital workflows.
 
 </td>
@@ -116,11 +122,11 @@ Developing **enterprise solutions** that modernize businesses. Turning tradition
 
 ### 💡 Current Focus
 
-| 🔨 Building | 🎓 Learning | 🎯 Goals |
-|:---|:---|:---|
-| 🤖 AI-powered automation platforms | ☁️ Advanced cloud architecture | 🌍 Scale AI solutions globally |
-| 📱 Enterprise React Native apps | 🧠 Machine learning integration | 👥 Grow engineering teams |
-| 🔄 Digital transformation tools | 🚀 DevOps & CI/CD optimization | 📚 Share knowledge through writing |
+| 🔨 Building                        | 🎓 Learning                     | 🎯 Goals                           |
+| :--------------------------------- | :------------------------------ | :--------------------------------- |
+| 🤖 AI-powered automation platforms | ☁️ Advanced cloud architecture  | 🌍 Scale AI solutions globally     |
+| 📱 Enterprise React Native apps    | 🧠 Machine learning integration | 👥 Grow engineering teams          |
+| 🔄 Digital transformation tools    | 🚀 DevOps & CI/CD optimization  | 📚 Share knowledge through writing |
 
 </div>
 
@@ -132,7 +138,7 @@ Developing **enterprise solutions** that modernize businesses. Turning tradition
 
 **⚽ Soccer Enthusiast** • **📸 Photography Lover** • **🎮 Gamer** • **💻 Tech Explorer**
 
-*When I'm not leading teams or building AI solutions, you'll find me on the soccer field, capturing moments through my lens, or exploring the latest tech trends.*
+_When I'm not leading teams or building AI solutions, you'll find me on the soccer field, capturing moments through my lens, or exploring the latest tech trends._
 
 </div>
 
