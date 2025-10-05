@@ -61,10 +61,13 @@
 
 ```mermaid
 graph LR
-    A[Software Engineer] --> B[Mobile Team Lead]
-    B --> C[AI Automation Expert]
+    A[Software Engineer] --> B[Team Lead]
+    A --> C[AI Automation]
     C --> D[Digital Transformation]
-    D --> E[Master's Degree]
+    B --> E[Master's/MBA/PhD]
+    D --> F[Change the World]
+    E --> F
+    F --> G[Die]
 ```
 
 <br/>
